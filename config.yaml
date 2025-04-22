@@ -1,0 +1,14 @@
+deepseek_api_key: "YOUR_API_KEY_HERE"
+
+email:
+  sender: "your_email@example.com"
+  receiver: "recipient@example.com"
+  password: "your_email_password"
+  smtp_server: "smtp.qq.com"
+  smtp_port: 465
+
+data_sources:
+  - baidu
+  - weibo
+
+output_dir: "reports"
