@@ -68,8 +68,6 @@ The system will:
 
 ## 🎁 Benefits Observed
 
-> 以下是作者在实际使用中收获的意外好处：
-
 - ⏳ **Time Saved**: At least 2 hours saved daily from manual news gathering and summary writing.
 - 📈 **Better Insights**: AI-generated content often highlights connections I might miss.
 - 📚 **Knowledge Base**: All reports are saved locally for future reference and research.
