@@ -1,5 +1,5 @@
 
-# 🔥 Hotspot Analysis Automation
+# 🔥 Trending Topics Analysis Automation
 
 This system collects trending topics from Baidu and Weibo, generates professional analysis reports using DeepSeek API, and optionally sends them via email. It’s designed to run automatically twice a day and save reports locally.
 
